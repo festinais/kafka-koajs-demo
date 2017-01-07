@@ -20,5 +20,6 @@ node app.js
 
 To produce messages to kafka server you can execute post request calls as follows:
 > POST /produce-messages
+
   Add desired message in post request body.
   This can be done using Postman.
